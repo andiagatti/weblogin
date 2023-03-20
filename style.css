@@ -1,0 +1,12 @@
+*body{
+    width: 100vh;
+    height: 100vh;
+}
+.jumbotron{
+    padding-top: 5rem;
+    background-color: #a2d9ff;
+}
+#projects{
+    background-color: #a2d9ff;
+    justify-content: center;
+}
